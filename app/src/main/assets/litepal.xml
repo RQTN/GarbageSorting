@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="garbage"/>
+
+    <version value="2" />
+
+    <list>
+        <mapping class='com.garbagesorting.android.db.Garbage' />
+        <mapping class="com.garbagesorting.android.db.History" />
+    </list>
+
+</litepal>
